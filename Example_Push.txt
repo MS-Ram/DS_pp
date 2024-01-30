@@ -1,3 +1,0 @@
-This is how to push a file to a repo
-
-this is to pull the edited file in repo
